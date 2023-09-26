@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vologa-Modul-1", "Vologa-Modul-1\Vologa-Modul-1.csproj", "{730CCF6F-10FD-45E5-B171-E803D757EEEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vologa1", "1\Vologa1\Vologa1\Vologa1.csproj", "{1F53EA07-F24A-4637-9466-608347B5DD19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vologa 2", "2\Vologa 2\Vologa 2\Vologa 2.csproj", "{4605FDC9-0FFC-470A-B8D7-25930EFAD6E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vologa 3", "3\Vologa 3\Vologa 3\Vologa 3.csproj", "{021B2038-EA35-41AE-9731-F582226CC36C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vologa 4", "4\Vologa 4\Vologa 4\Vologa 4.csproj", "{072E38C5-2B7B-4310-9F6E-6842B0F60639}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vologa5", "5\Vologa5\Vologa5\Vologa5.csproj", "{C5E11E84-EFA0-4B84-8D0E-0F6AC9E65B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730CCF6F-10FD-45E5-B171-E803D757EEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730CCF6F-10FD-45E5-B171-E803D757EEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730CCF6F-10FD-45E5-B171-E803D757EEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730CCF6F-10FD-45E5-B171-E803D757EEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F53EA07-F24A-4637-9466-608347B5DD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F53EA07-F24A-4637-9466-608347B5DD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F53EA07-F24A-4637-9466-608347B5DD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F53EA07-F24A-4637-9466-608347B5DD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4605FDC9-0FFC-470A-B8D7-25930EFAD6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4605FDC9-0FFC-470A-B8D7-25930EFAD6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4605FDC9-0FFC-470A-B8D7-25930EFAD6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4605FDC9-0FFC-470A-B8D7-25930EFAD6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021B2038-EA35-41AE-9731-F582226CC36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021B2038-EA35-41AE-9731-F582226CC36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021B2038-EA35-41AE-9731-F582226CC36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021B2038-EA35-41AE-9731-F582226CC36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072E38C5-2B7B-4310-9F6E-6842B0F60639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072E38C5-2B7B-4310-9F6E-6842B0F60639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072E38C5-2B7B-4310-9F6E-6842B0F60639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072E38C5-2B7B-4310-9F6E-6842B0F60639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E11E84-EFA0-4B84-8D0E-0F6AC9E65B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E11E84-EFA0-4B84-8D0E-0F6AC9E65B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E11E84-EFA0-4B84-8D0E-0F6AC9E65B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E11E84-EFA0-4B84-8D0E-0F6AC9E65B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF2AAE43-52AE-4657-9E13-63249DC7375D}
+	EndGlobalSection
+EndGlobal

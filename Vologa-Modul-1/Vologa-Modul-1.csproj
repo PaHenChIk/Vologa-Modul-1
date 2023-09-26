@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Vologa_Modul_1</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\1\Vologa1\Vologa1\Vologa1.csproj" />
+    <ProjectReference Include="..\..\..\2\Vologa 2\Vologa 2\Vologa 2.csproj" />
+    <ProjectReference Include="..\..\..\3\Vologa 3\Vologa 3\Vologa 3.csproj" />
+    <ProjectReference Include="..\..\..\4\Vologa 4\Vologa 4\Vologa 4.csproj" />
+    <ProjectReference Include="..\..\..\5\Vologa5\Vologa5\Vologa5.csproj" />
+    <ProjectReference Include="..\1\Vologa1\Vologa1\Vologa1.csproj" />
+    <ProjectReference Include="..\2\Vologa 2\Vologa 2\Vologa 2.csproj" />
+    <ProjectReference Include="..\3\Vologa 3\Vologa 3\Vologa 3.csproj" />
+    <ProjectReference Include="..\4\Vologa 4\Vologa 4\Vologa 4.csproj" />
+    <ProjectReference Include="..\5\Vologa5\Vologa5\Vologa5.csproj" />
+  </ItemGroup>
+
+</Project>
